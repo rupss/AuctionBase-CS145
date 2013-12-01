@@ -1,6 +1,6 @@
 # AuctionBase
 
-Final project for CS145 (Databases), Fall 2012. Online auction system using sqlite3. 
+Final project for CS145 (Databases), Fall 2012. Online auction system using sqlite3. More about the backend than the frontend. 
 
 See full assignment description here: http://infolab.stanford.edu/~widom/cs145/work.html
 
