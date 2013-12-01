@@ -1,10 +1,10 @@
-CS145 (Databases), Fall 2012
+# AuctionBase
 
-Used sqlite3.
+Final project for CS145 (Databases), Fall 2012. Online auction system using sqlite3. 
 
-See assignment description here: http://infolab.stanford.edu/~widom/cs145/work.html
+See full assignment description here: http://infolab.stanford.edu/~widom/cs145/work.html
 
-Files: 
+# Files
 - auction.php: page for an individual auction
 - auctionBase: the database file. 
 - auctions.php: shows all auctions that have a start time before the current time. 
